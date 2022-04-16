@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hoang Nguyen
-- 🌱 I’m currently learning React and Node.
+- 🌱 I’m currently learning React and Express.
 - 📫 Feel free to reach me at hnpn334@gmail.com if you want to collaborate!
 
 <!---
