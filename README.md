@@ -4,7 +4,7 @@ Hi 👋 My name is Hoang Nguyen
 Software Engineer
 -----------------
 
-Full Stack engineer with around 1.5+years of experience. Currently using React and Node/Express for my upcoming projects.
+Full Stack engineer with around 2 years of experience. Currently using React and Node/Express for my upcoming projects.
 
 * 🌍  I'm based in Baton Rouge, Louisiana
 * ✉️  You can contact me at [hnpn334@gmail.com](mailto:hnpn334@gmail.com)
