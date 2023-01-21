@@ -6,7 +6,7 @@ Software Engineer
 
 Full Stack engineer with around 2 years of experience. Currently using React and Node/Express for my upcoming projects.
 
-* 🌍  I'm based in Baton Rouge, Louisiana
+* 🌍  I'm based in New Orleans, Louisiana
 * ✉️  You can contact me at [hnpn334@gmail.com](mailto:hnpn334@gmail.com)
 * 🧠  I'm learning React and Node/Express
 * 🤝  I'm open to collaborating on any projects. Just email and we can schedule some time to discuss
